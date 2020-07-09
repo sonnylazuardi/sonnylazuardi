@@ -2,10 +2,10 @@
 
 ![polling](https://vega-github-readme.glitch.me/test.svg)
 
-👉 [React](https://vega-github-readme.glitch.me/vote/React)
-👉 [Vue](https://vega-github-readme.glitch.me/vote/Vue)
-👉 [Svelte](https://vega-github-readme.glitch.me/vote/Svelte)
-👉 [Angular](https://vega-github-readme.glitch.me/vote/Angular)
+👉 [React](https://vega-github-readme.glitch.me/vote/React) |
+👉 [Vue](https://vega-github-readme.glitch.me/vote/Vue) |
+👉 [Svelte](https://vega-github-readme.glitch.me/vote/Svelte) |
+👉 [Angular](https://vega-github-readme.glitch.me/vote/Angular) |
 👉 [Others](https://vega-github-readme.glitch.me/vote/Others)
 
 ### Hi there 👋  I'm Sonny
