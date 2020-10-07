@@ -10,7 +10,7 @@
 
 ### Hi there 👋  I'm Sonny
 
-I'm a ux engineer [@Grab](https://grab.com) working on design plugins, prototypes and apps to make designers work easier and to experiment what's possible with design and code.
+I'm currently a ux engineer [@Grab](https://grab.com) working on design plugins, prototypes and apps to make designers work easier and to experiment what's possible with design and code.
 
 I open sourced some side projects on @github. Check out some projects below 👇
 
