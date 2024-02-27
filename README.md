@@ -7,3 +7,5 @@ In my spare time, I created tools to make design easy in figma. You can go to [f
 I also open sourced some side projects on @github. Check out some projects below 👇
 
 ☕ Wanna chat? 👉 @ me on [![Twitter](https://img.shields.io/twitter/follow/sonnylazuardi?label=Follow&style=social)](https://twitter.com/sonnylazuardi)
+
+![profile](https://pixel-profile.vercel.app/api/github-stats?username=sonnylazuardi&screen_effect=true&background=linear-gradient(to%20bottom%20right,%20%235580eb,%20%232aeeff))
